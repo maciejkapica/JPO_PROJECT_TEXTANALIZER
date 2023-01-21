@@ -10,5 +10,5 @@ Aby uruchomić projekt należy:
   3. Z menu programu wybrać opcję Open Project
   4. Wybrać w oknie dialogowym plik ...\TextAnalizer\FilesAnalizer\FilesAnalizer.pro
   5. Otworzy się wtedy cała struktura projektu
-  6. Następnie wybierając z menu: Budowanie -> Uruchom (lub skrót klawiszowy CTR + R)
+  6. Następnie wybrać z menu: Budowanie -> Uruchom (lub skrót klawiszowy CTR + R)
   7. Uruchomiona zostanie aplikacja TextAnalizer
